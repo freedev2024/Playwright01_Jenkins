@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": ">npx playwright test ./tests/NodeRESTAPI -g @credential --project=chromium --workers=1"
+    "test": "npx playwright test"
   },
   "keywords": [],
   "author": "",
